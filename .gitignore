@@ -1,8 +1,5 @@
-# macOS files
 .DS_Store
-
-# Backup files
 *.backup
-
-# Automatic backups directory - these are generated automatically
+*.bak
+*.before-*
 automatic_backups/
